@@ -28,7 +28,7 @@ print(data.duplicated().sum())
 # Check data types
 data_types = df.dtypes
 
-# Seasons data type is object, Extract years and convert to integers
+# Seasons data type is object and thus cannot be used for analysis. To comabat this we extract the years and convert to the data type to integers
 # Load the dataset with custom parsing for 'Season' column
 def parse_seasons(seasons_str):
     # Remove square brackets and split by comma, then convert to integers
