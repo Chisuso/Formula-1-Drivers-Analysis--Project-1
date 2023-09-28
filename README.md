@@ -1,7 +1,6 @@
 # Formula-1-Drivers-Analysis--Project-1
 
-![Alt Text](https://i.pinimg.com/originals/6f/fb/9a/6ffb9a0221dc7752a2f99a7482279517.gif)
-
+![Alt Text](https://media.giphy.com/media/F3JhKaucb9QqSF7bSS/giphy.gif)
 ## Overview
 ### Rev up your engines! 🚗💨
 Welcome to the world of Formula 1, where speed, strategy, and stats come together! 🏎️ In this thrilling data analysis project, we're diving headfirst into the world of F1 driver performance data to uncover exciting insights about our favorite racers. 🏁
