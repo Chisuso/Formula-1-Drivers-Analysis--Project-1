@@ -1,6 +1,7 @@
 # Formula-1-Drivers-Analysis--Project-1
 
 ![Alt Text](https://media.giphy.com/media/F3JhKaucb9QqSF7bSS/giphy.gif)
+
 ## Overview
 ### Rev up your engines! 🚗💨
 Welcome to the world of Formula 1, where speed, strategy, and stats come together! 🏎️ In this thrilling data analysis project, we're diving headfirst into the world of F1 driver performance data to uncover exciting insights about our favorite racers. 🏁
@@ -27,7 +28,7 @@ To run the Jupyter Notebook and reproduce the analysis, you will need the follow
 
 - pandas
 - matplotlib
-- seaborn (for advanced visualization, if required)
+- seaborn (for advanced visualization)
 - numpy (for data manipulation)
 
 
