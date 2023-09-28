@@ -18,10 +18,9 @@ The primary objective of this analysis is to gain insights into the historical p
 
 ## Lap-by-Lap Files 📂
 
-- `f1_data_analysis.ipynb`: Jupyter Notebook filled with Python code for data analysis, visualization, and deductions.
-- `f1_drivers_dataset.csv`: The dataset we're tearing through!
-- `f1_image.jpg`: An awesome image to fuel your F1 passion.
-
+- `F1_Drivers_Analysis.pdf`: Complete project pdf containing Python code for data analysis, visualization, and meaningful deductions.
+- `F1Drivers_Dataset.csv`: The dataset we're tearing through!
+- `F1 Drivers Project.py`: Python code only
 ## Dependencies
 
 To run the Jupyter Notebook and reproduce the analysis, you will need the following Python libraries:
