@@ -5,6 +5,7 @@
 ## Overview
 ### Rev up your engines! 🚗💨
 Welcome to the world of Formula 1, where speed, strategy, and stats come together! 🏎️ In this thrilling data analysis project, we're diving headfirst into the world of F1 driver performance data to uncover exciting insights about our favorite racers. 🏁
+
 This project involves the analysis of Formula 1 driver performance data spanning several decades. The dataset contains valuable information about Formula 1 drivers, including their race wins, podiums, pole positions, and other performance metrics.
 
 The primary objective of this analysis is to gain insights into the historical performance of Formula 1 drivers, understand trends, and provide meaningful deductions. We also explore the impact of technological advancements, changes in race strategies, and the competitiveness of the sport on driver performance.
@@ -31,7 +32,7 @@ To run the Jupyter Notebook and reproduce the analysis, you will need the follow
 - numpy (for data manipulation)
 
 
-## Deductions and Insights
+## Key Deductions and Insights
 
 The analysis provides the following key deductions:
 
