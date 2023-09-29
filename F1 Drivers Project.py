@@ -68,7 +68,7 @@ avg_win_rate_champions = df[df['Champion'] == 1]['Win_Rate'].mean()
 print(f'Average Win Rate for Champions: {avg_win_rate_champions:.2%}')
 # Average Win Rate for Champions: 15.55%
 
-# Use Case 3: Analysis of Race Win Rate
+# Analysis of Race Win Rate
 data['Win_Rate'] = (data['Race_Wins'] / data['Race_Entries']) * 100
 plt.figure(figsize=(10, 8))
 sns.histplot(data['Win_Rate'], bins=20, kde=True)
